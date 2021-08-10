@@ -1,0 +1,19 @@
+
+body{
+    
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:#020202;
+    color: rgb(255, 218, 11);
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    color: #faf1f1;
+    
+}
